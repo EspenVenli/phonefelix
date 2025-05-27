@@ -1,0 +1,16 @@
+Server is now listening on http://127.0.0.1:6060
+Command line arguments: [ '--call=+19472176285' ]
+Found phone number argument: --call=+19472176285
+Calling: +19472176285
+Our recommendation is to always disclose the use of AI for outbound or inbound calls.
+Reminder: all of the rules of TCPA apply even if a call is made by AI 
+Check with your counsel for legal and compliance advice.
+DOMAIN: gar-inspired-completely.ngrok-free.app
+TwiML endpoint URL: https://gar-inspired-completely.ngrok-free.app/twiml
+Call initiated with SID: CAc73d4b09020a933a56f01788ae48bacb
+Call initiated with SID: CAc73d4b09020a933a56f01788ae48bacb
+Status monitor client connected [ID: cnfu7sha]
+[cnfu7sha] After delay - Attempting to use socket type: object
+[cnfu7sha] After delay - Socket readyState: 1
+[cnfu7sha] Successfully obtained socket object after delay.
+[cnfu7sha] Sent initial status data to client
